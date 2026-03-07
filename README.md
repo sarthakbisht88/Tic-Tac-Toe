@@ -6,5 +6,14 @@ Compile locally:-
 1. g++ main.cpp(MIN GW)
 2. ./a
 
+## Clearing the Screen(For Aesthetics)
+The game clears the terminal every turn to keep the board clean.
+
+```cpp
+system("cls");   // Windows
+
+system("clear"); // Linux / Mac
+```
+
 Created by Sarthak Bisht
 07-03-2026
