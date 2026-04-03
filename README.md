@@ -7,7 +7,7 @@ Compile locally:-
 2. ./a
 
 ## Clearing the Screen(For Aesthetics)
-The game clears the terminal every turn to keep the board clean.
+The game clears the terminal every turn to keep the board clean.Add in int main:-
 
 ```cpp
 system("cls");   // Windows
